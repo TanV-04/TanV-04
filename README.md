@@ -7,4 +7,4 @@ I'm a passionate developer and an avid learner with an interest in cybersecurity
 - 📫 How to reach me:
   LinkedIn: https://www.linkedin.com/in/tanvi-sontakke-298407279/
   GitHub: https://github.com/TanV-04
-- ⚡ My Hobbies: ## Reading and Sketching
+- ⚡ My Hobbies: Reading and Sketching
