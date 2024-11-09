@@ -4,7 +4,9 @@ I'm a passionate developer and an avid learner with an interest in cybersecurity
 
 - 🌱 I’m currently learning React and Three.js
 - 👯 I’m looking to collaborate on web-dev, cybersecurity and game dev projects.
-- 📫 How to reach me:
-  LinkedIn: https://www.linkedin.com/in/tanvi-sontakke-298407279/
-  GitHub: https://github.com/TanV-04
+- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/tanvi-sontakke-298407279/
+- 👨‍💻 My projects are available on: GitHub: https://github.com/TanV-04
 - ⚡ My Hobbies: Reading and Sketching
+
+Languages and Tools:
+<a href="https://www.flaticon.com/free-icons/coding" title="coding icons">Coding icons created by Freepik - Flaticon</a>
