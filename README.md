@@ -9,5 +9,10 @@ I'm a passionate developer and an avid learner with an interest in cybersecurity
 - ⚡ My Hobbies: Reading and Sketching
 
 Languages and Tools:
-![image](https://github.com/user-attachments/assets/43bf392c-d247-4476-9bc1-aa8fe673a789)
-
+- C++
+- React
+- MySQL
+- Blender
+- VS Code
+- Unity
+- Linux
