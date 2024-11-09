@@ -9,4 +9,5 @@ I'm a passionate developer and an avid learner with an interest in cybersecurity
 - ⚡ My Hobbies: Reading and Sketching
 
 Languages and Tools:
-<a href="https://www.flaticon.com/free-icons/coding" title="coding icons">Coding icons created by Freepik - Flaticon</a>
+![image](https://github.com/user-attachments/assets/43bf392c-d247-4476-9bc1-aa8fe673a789)
+
